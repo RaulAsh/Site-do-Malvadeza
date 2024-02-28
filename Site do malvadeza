@@ -13,17 +13,20 @@
     img {
 width: 30%;
     }
+body {background-image: url(Vini-Jr-jpg.jpg);}
+h1 {color:white}
+h2 {color:white}
 </style>
 </head>
 <body>
     <h1><center>Site do malvadeza</center></h1>
     <center><h2>Vini Malvadeza adora meteli goli</h2> </center>
-<center><h3>Aqui ele ja estava cantando seus grandes hits!</h3>
-<video width="320" height="240" controls>
+<center><h2>Aqui ele ja estava cantando seus grandes hits!</h2>
+<video width="300" height="250" controls>
 <source src="Vinicius Jr cantando_ Vamos pular... NOVO MEME 2018.ogg" type="video/ogg">
 <source src="Vinicius Jr cantando_ Vamos pular... NOVO MEME 2018.mp4" type="video/mp4">
 </video>
-<center><h3>Agora metendo gol no maraca</h3> </center> 
+<center><h2>Agora metendo gol no maraca</h2> </center> 
 </body>
 <img src="vinicius-jr.jpg" /> 
 
